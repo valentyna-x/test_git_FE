@@ -1,4 +1,6 @@
-html. body {
-    font-size: 14px;
-    min-height: 20px;
+html, body {
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    background-color: azure;
 }
